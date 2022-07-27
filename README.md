@@ -4,6 +4,6 @@ git clone https://github.com/HaMzAKhAn573/rehan.git
 
 git pull
 
-cd hamzaa
+cd rehan
 
 python rehan.py
